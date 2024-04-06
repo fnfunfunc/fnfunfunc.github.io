@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Hello!"
 date:   2024-04-06 16:05:05 +0800
 categories: introduction

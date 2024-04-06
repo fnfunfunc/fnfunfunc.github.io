@@ -1,10 +1,9 @@
 ---
-layout: post
+layout: single
 title:  "Flutter 渲染流程"
 date:   2024-04-06 16:20:00 +0800
-categories: mobile devs
+categories: mobile_devs
 ---
-# Flutter 渲染流程
 
 基于 Flutter 3.13 对 Flutter 的渲染流程进行分析研究，本文按照自顶向下的方式进行梳理。
 
